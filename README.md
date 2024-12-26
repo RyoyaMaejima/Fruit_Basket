@@ -1,8 +1,12 @@
 # FruitBasket
+![](https://github.com/RyoyaMaejima/Fruit_Basket/blob/main/ReadmeSrc/Title.png)
+
 ## ゲーム概要
 - フルーツを集めてフルーツジュースを作る3Dアクションゲーム
 - プレイヤーはカゴを操作してフルーツを集め、ゴール地点にあるミキサーに入れればゲームクリア
 - 制限時間を過ぎればゲームオーバー
+
+![](https://github.com/RyoyaMaejima/Fruit_Basket/blob/main/ReadmeSrc/Ingame.png)
 
 ## 操作方法
 ![](https://github.com/RyoyaMaejima/Fruit_Basket/blob/main/ReadmeSrc/HowToPlay.png)
