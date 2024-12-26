@@ -5,7 +5,7 @@
 - 制限時間を過ぎればゲームオーバー
 
 ## 操作方法
-https://github.com/RyoyaMaejima/Fruit_Basket/blob/main/ReadmeSrc/HowToPlay.png
+(https://github.com/RyoyaMaejima/Fruit_Basket/blob/main/ReadmeSrc/HowToPlay.png)
 
 ## プレイ動画・実行ファイル
 プレイ動画と実行ファイルは下記リンクに記載しています  
