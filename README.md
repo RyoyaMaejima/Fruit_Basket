@@ -1,4 +1,4 @@
-# Fruit_Basket
+# FruitBasket
 ## ゲーム概要
 - フルーツを集めてフルーツジュースを作る3Dアクションゲーム
 - プレイヤーはカゴを操作してフルーツを集め、ゴール地点にあるミキサーに入れればゲームクリア
@@ -25,7 +25,7 @@ https://drive.google.com/drive/folders/1w85yyZqWshpuGu3eDkSRUPvhT6seJpP5?usp=sha
 ## ディレクトリ構成
 Source内にソースコード一式を載せています。  
 Source/FruitBasket/Stage内に私が作成したコードが入っています。  
-以下が各ファイルの説明。  
+以下が各ファイルの説明。
 
 - Dog：犬の挙動を管理するスクリプト
 - Fire：焚火の挙動を管理するスクリプト
