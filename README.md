@@ -11,8 +11,13 @@
 ## 操作方法
 ![](https://github.com/RyoyaMaejima/Fruit_Basket/blob/main/ReadmeSrc/HowToPlay.png)
 
-## プレイ動画・実行ファイル
-プレイ動画と実行ファイルは下記リンクに記載しています  
+## プレイ動画
+プレイ動画は下記リンクに記載しています  
+
+https://youtu.be/C1QsEMtxZb0
+
+## 実行ファイル
+実行ファイルは下記リンクに記載しています  
 
 https://drive.google.com/drive/folders/1w85yyZqWshpuGu3eDkSRUPvhT6seJpP5?usp=sharing
 
@@ -27,9 +32,9 @@ https://drive.google.com/drive/folders/1w85yyZqWshpuGu3eDkSRUPvhT6seJpP5?usp=sha
 - 使用ツール：Unreal Engine 5
 
 ## ディレクトリ構成
-Source内にソースコード一式を載せています。  
-Source/FruitBasket/Stage内に私が作成したコードが入っています。  
-以下が各ファイルの説明。
+Source内にソースコード一式を載せています  
+Source/FruitBasket/Stage内に私が作成したコードが入っています  
+以下が各ファイルの説明
 
 - Dog：犬の挙動を管理するスクリプト
 - Fire：焚火の挙動を管理するスクリプト
